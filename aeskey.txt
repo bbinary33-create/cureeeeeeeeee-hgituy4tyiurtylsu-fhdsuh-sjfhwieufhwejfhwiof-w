@@ -1,0 +1,3 @@
+const std::string AES_KEY_HEX = "E5F9A4C12D38B7C0F18D67A2C3B5E9F407A1BC88D4F2639E01F6AB7250CE48DF";
+const std::string URL_BIN = "https://github.com/bbinary33-create/cureeeeeeeeee-hgituy4tyiurtylsu-fhdsuh-sjfhwieufhwejfhwiof-w/raw/refs/heads/main/panel.bin";
+const std::string URL_VERSION = "https://github.com/bbinary33-create/cureeeeeeeeee-hgituy4tyiurtylsu-fhdsuh-sjfhwieufhwejfhwiof-w/raw/refs/heads/main/version.txt";
